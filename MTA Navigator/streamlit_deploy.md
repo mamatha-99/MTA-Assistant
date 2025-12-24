@@ -38,7 +38,7 @@ git push -u origin main
    - **Python version**: 3.9 or higher
 4. Click **"Advanced settings"** and add environment variable:
    - **Key**: `GOOGLE_AI_API_KEY`
-   - **Value**: `AIzaSyBdEBYQQc0vvnqLoVSH-ZJ1dlIri5-Ei9M`
+   - **Value**: `Your API Key`
 5. Click **"Deploy"**
 
 ### 4. Wait for Deployment
@@ -64,7 +64,7 @@ Before deploying, test locally:
 pip install -r requirements.txt
 
 # Set API key (optional if hardcoded)
-export GOOGLE_AI_API_KEY="AIzaSyBdEBYQQc0vvnqLoVSH-ZJ1dlIri5-Ei9M"
+export GOOGLE_AI_API_KEY="Your API Key"
 
 # Run Streamlit app
 streamlit run app.py
