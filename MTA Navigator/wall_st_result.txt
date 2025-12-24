@@ -1,0 +1,19 @@
+/Users/sj/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+=== DIRECT ROUTE TEST: Grand Central -> Wall St ===
+
+[User]: "How do I get from Grand Central 42 St to Wall St?"
+
+[Agent]:
+Here's the quickest route from Grand Central-42 St to Wall St:
+
+1. Take the 4 or 5 train from Grand Central-42 St to 14 St-Union Sq. This should take about 4 minutes.
+2. Then, take the 4 or 5 train from 14 St-Union Sq to Brooklyn Bridge-City Hall. This should take about 4.5 minutes.
+3. Continue on the 4 or 5 train from Brooklyn Bridge-City Hall to Fulton St. This trip should take about 1.5 minutes.
+4. Finally, take the 4 or 5 train from Fulton St to Wall St, which should take 1.5 minutes. 
+
+Estimated total travel time is approximately 11 minutes.
+
+The next 4 train at Grand Central-42 St is arriving in 5 minutes at 02:18 and another one in 22 minutes at 02:35.
+
+⚠️ UNDETERMINED: Check output above.

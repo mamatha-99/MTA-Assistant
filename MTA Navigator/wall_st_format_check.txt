@@ -1,0 +1,16 @@
+/Users/sj/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+=== DIRECT ROUTE TEST: Grand Central -> Wall St ===
+
+[User]: "How do I get from Grand Central 42 St to Wall St?"
+
+[Agent]:
+The quickest way from Grand Central 42 St to Wall St is on the 4 or a 5 line. Your trip will take approximately 13 minutes. 
+
+Here are the next available departures:
+- Route 4 at 02:18 (in 3 minutes)
+- Route 4 at 02:35 (in 20 minutes)
+ 
+Please make sure to listen for live updates as travel times may vary.
+
+⚠️ UNDETERMINED: Check output above.
